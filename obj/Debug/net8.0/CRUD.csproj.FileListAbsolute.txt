@@ -1,0 +1,14 @@
+/home/alice/C#/CRUD/bin/Debug/net8.0/CRUD
+/home/alice/C#/CRUD/bin/Debug/net8.0/CRUD.deps.json
+/home/alice/C#/CRUD/bin/Debug/net8.0/CRUD.runtimeconfig.json
+/home/alice/C#/CRUD/bin/Debug/net8.0/CRUD.dll
+/home/alice/C#/CRUD/bin/Debug/net8.0/CRUD.pdb
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.AssemblyInfoInputs.cache
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.AssemblyInfo.cs
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.csproj.CoreCompileInputs.cache
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.dll
+/home/alice/C#/CRUD/obj/Debug/net8.0/refint/CRUD.dll
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.pdb
+/home/alice/C#/CRUD/obj/Debug/net8.0/CRUD.genruntimeconfig.cache
+/home/alice/C#/CRUD/obj/Debug/net8.0/ref/CRUD.dll
